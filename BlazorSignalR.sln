@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSignalR", "BlazorSignalR\BlazorSignalR.csproj", "{BFA234FF-10D6-4746-B40B-1C306047AB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA234FF-10D6-4746-B40B-1C306047AB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA234FF-10D6-4746-B40B-1C306047AB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA234FF-10D6-4746-B40B-1C306047AB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA234FF-10D6-4746-B40B-1C306047AB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C46610-8E26-4032-9952-7852CF32428D}
+	EndGlobalSection
+EndGlobal
